@@ -1,25 +1,27 @@
-#include<stdio.h>
-/* betty style doc for function main goes there */
+#include <stdio.h>
 /**
  * main - Entry point
  *
  * Return: Always 0 (Success)
  */
-int main (void)
+int main(void)
 {
-	
-	for (int mbs = 'a';  mbs <= 'z'; mbs++)
+    char lowercase = 'a';
+    char uppercase = 'A';
+   
+	while (lowercase <= 'z')
 {
-		putchar(mbs);
-
+	putchar(lowercase);
+        lowercase++;
 }
-	
-	for  (int mns = 'A'; mns <= 'Z'; mns++)
+
+    
+	while (uppercase <= 'Z')
 {
-	putchar(mns);
-
-
+	putchar(uppercase);
+	uppercase++;
 }
+
 	putchar('\n');
 	return (0);
 }

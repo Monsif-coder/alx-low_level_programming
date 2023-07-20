@@ -7,14 +7,14 @@
  */
 int main (void)
 {
-	int mbs = 'a';
+	
 	for (int mbs = 'a';  mbs <= 'z'; mbs++)
 {
 		putchar(mbs);
 
 }
-	int mns = 'A';
-	for  (mns = 'A'; mns <= 'Z'; mns++)
+	
+	for  (int mns = 'A'; mns <= 'Z'; mns++)
 {
 	putchar(mns);
 

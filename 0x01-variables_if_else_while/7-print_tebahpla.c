@@ -11,6 +11,7 @@ int main (void)
 	while (hexi >= 'a')
 	{ 
 	putchar(hexi);
+	hexi--;
 	}
 	putchar('\n');
 	return (0);

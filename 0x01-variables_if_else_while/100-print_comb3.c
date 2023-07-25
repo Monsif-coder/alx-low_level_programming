@@ -11,7 +11,7 @@ int main() {
                 putchar(lbhja + '0');
 
                 if (ghousni != 8 || lbhja != 9) {
-                    putchar(' ');
+                    putchar(',');
                     putchar(' ');
                 }
             }

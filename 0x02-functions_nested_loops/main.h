@@ -1,6 +1,3 @@
-/**
- * main - Entry point
- *
- * Return: Always 0 (Success)
- */
-int max(void);
+#ifndef main_h
+	#define main_h
+int max();

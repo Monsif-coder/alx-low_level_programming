@@ -1,0 +1,3 @@
+ in C programming, a function prototype is also referred to as a function declaration. A function prototype declares the function's name, return type, and the types of its parameters, if any, without providing the actual function definition. It serves as a "forward declaration" of the function, indicating to the compiler that the function exists and can be called elsewhere in the program.
+
+The function prototype allows the compiler to verify that the function is used correctly in the program, ensuring that the correct number and types of arguments are passed to the function and that the return value, if any, is used appropriately.

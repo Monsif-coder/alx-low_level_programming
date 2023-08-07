@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_rev - prints a string in reverce
- * @length:loop index
+ * @length
  * @str: pointer to string
  */
 

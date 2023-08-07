@@ -2,7 +2,7 @@
 /**
  * print_rev - prints a string in reverce
  * followed by a new line
- * @length: iterates through the loop.
+ * @length:loop index
  * @str: pointer to string
  */
 

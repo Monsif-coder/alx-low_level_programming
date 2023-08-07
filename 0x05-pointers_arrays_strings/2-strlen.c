@@ -2,7 +2,7 @@
 /**
  * _strlen - outputs length of a string
  * @s:pointer of type char.
- * Return (y): always success
+ * @y: always success
  */
 int _strlen(char *s)
 {

@@ -1,7 +1,7 @@
 #include "main.h"
 #include<stdio.h>
-/** function printing a string
- * _puts_recursion: it prints a string to the console pointed to by m
+/** 
+ * _puts_recursion: it prints a string to the console pointed to by m which is a pointer to string 
  * @m: is a pointer.
  */
 void _puts_recursion(char *m)

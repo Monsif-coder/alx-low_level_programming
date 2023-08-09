@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- * _puts_recursion: it prints a string to the console using recursion
- *@m: is a pointer to the string to be printed
+ *void _puts_recursion(char *m): printing a string to the consoe with recursion
+ * @m: the desired value
+ * Return: success
  */
 void _puts_recursion(char *m)
 {

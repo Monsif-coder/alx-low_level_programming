@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *_puts_recursion: printing a string to the consoe with recursion
+ *_puts_recursion -  printing a string to the consoe with recursion
  * @m: the desired value
  * Return: success
  */

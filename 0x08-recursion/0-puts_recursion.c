@@ -1,9 +1,10 @@
 #include "main.h"
 /**
- *void _puts_recursion(char *m): printing a string to the consoe with recursion
+ *_puts_recursion: printing a string to the consoe with recursion
  * @m: the desired value
  * Return: success
  */
+
 void _puts_recursion(char *m)
 {
 	if (*m == '\0')
